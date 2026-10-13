@@ -1,0 +1,4 @@
+# Copy to local.properties (git-ignored) and fill in from Supabase > Project Settings > API
+sdk.dir=/path/to/Android/sdk
+SUPABASE_URL=https://wbvvgggmnpnqhxcyzezu.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndidnZnZ2dtbnBucWh4Y3l6ZXp1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA2MDg2NzcsImV4cCI6MjEwNjE4NDY3N30.kH4HYtwycnt8nrML30cEk6DVahfU-aJSH0fPSQ41BLk

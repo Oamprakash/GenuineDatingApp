@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989453310288",
+    "project_id": "genuinedatingapp-74ba4",
+    "storage_bucket": "genuinedatingapp-74ba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989453310288:android:a90f7b0c9907c88d00f455",
+        "android_client_info": {
+          "package_name": "com.genuine.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8F4SVJFd1kPpk81bhKqmzJ7RSpeODKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

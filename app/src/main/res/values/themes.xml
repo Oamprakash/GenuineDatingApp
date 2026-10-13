@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main theme: window starts cream, so there's no white flash -->
+    <style name="Theme.Genuine" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+    <!-- Splash: cream background, icon in a coral circle, then switch to the main theme -->
+    <style name="Theme.Genuine.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/window_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/brand_coral</item>
+        <item name="postSplashScreenTheme">@style/Theme.Genuine</item>
+    </style>
+</resources>
